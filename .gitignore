@@ -1,3 +1,4 @@
 # Project exclude paths
 /target/
-src/main/java/com/spring/hibernate/entity/Department.java
+/src/main/java/com/spring/hibernate/entity/Department.java
+.idea
